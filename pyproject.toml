@@ -1,0 +1,19 @@
+[project]
+name = "hsr-assistant-driver"
+version = "0.1.0"
+description = "Honkai: Star Rail Assistant Driver"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "jsonschema>=4.24.0",
+    "mcp>=1.9.3",
+    "psutil>=7.0.0",
+    "pyyaml>=6.0.2",
+    "uvicorn>=0.34.3",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.13",
+]
