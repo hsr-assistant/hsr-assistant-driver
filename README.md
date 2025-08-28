@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/hsr-assistant-hsr-assistant-driver-badge.png)](https://mseep.ai/app/hsr-assistant-hsr-assistant-driver)
+
 # HSR Assistant Driver
 
 MCP server that exposes Honkai: Star Rail game automation functionality to LLMs by integrating Auto Simulated Universe and March7thAssistant scripts.
